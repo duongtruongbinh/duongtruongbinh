@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duongtruongbinh&show_icons=true&theme=radical)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongtruongbinh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **duongtruongbinh/duongtruongbinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
