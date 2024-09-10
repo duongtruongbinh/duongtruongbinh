@@ -16,7 +16,7 @@
 ### My Goals:
 - 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
 - 🌱 Continuously learning cutting-edge technologies.
-- 🤝 Seeking opportunities to collaborate and contribute to open-source projects.
+<!-- - 🤝 Seeking opportunities to collaborate and contribute to open-source projects -->
 
 ---
 
@@ -48,12 +48,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="35%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="30%" />
 </div>
 
 ---
