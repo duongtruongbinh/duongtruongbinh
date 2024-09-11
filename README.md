@@ -16,13 +16,18 @@
 ### My Goals:
 - 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
 - 🌱 Continuously learning cutting-edge technologies.
-<!-- - 🤝 Seeking opportunities to collaborate and contribute to open-source projects -->
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duongtruongbinh) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BREADduongtruongbinh)
+<div align="center">
+  <a href="https://linkedin.com/in/duongtruongbinh">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/BREADduongtruongbinh">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 ---
 
@@ -53,7 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="32%" />
 </div>
 
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -63,4 +67,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=duongtruongbinh&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=duongtruongbinh&icon=0&color=8" alt="Profile Views Counter" />
+</div>
