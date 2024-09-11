@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="40%" />
 </div>
 
 <div align="center">
