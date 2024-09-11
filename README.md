@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bình</h1>
-<h3 align="center">A passionate Computer Science/Data Science student exploring the realms of AI and Data Science</h3>
+<h3 align="center">A passionate student exploring the realms of AI and Data Science</h3>
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  alt="GIF" width="600">
@@ -48,12 +48,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="35%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duongtruongbinh&theme=dracula&hide_border=false" alt="GitHub Streak" width="65%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtruongbinh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="90%" />
 </div>
 
 ---
