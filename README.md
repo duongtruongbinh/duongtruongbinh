@@ -6,7 +6,7 @@
 <br><br>
 </div>
 
----
+
 
 ## 🚀 About Me:
 🎓 I'm an undergraduate student majoring in **Computer Science/Data Science** at **VNUHCM - University of Science**.  
@@ -17,7 +17,7 @@
 - 🎯 Enhance my knowledge in AI/DS through real-world projects and collaborations.
 - 🌱 Continuously learning cutting-edge technologies.
 
----
+
 
 ## 🌐 Connect with Me:
 <div align="center">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
----
+
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
----
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -60,14 +59,13 @@
   </div>
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=duongtruongbinh&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
+
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=duongtruongbinh&icon=0&color=8" alt="Profile Views Counter" />
