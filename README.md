@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bình</h1>
+<h1 align="center">Hi there 👋, I'm Truong-Binh</h1>
 <h3 align="center">A passionate student exploring the realms of AI and Data Science</h3>
 
 <div align="center">
@@ -30,7 +30,7 @@
 </div>
 
 
-
+<!--  
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
-
+-->
 
 ## 📊 GitHub Stats:
 <div align="center">
